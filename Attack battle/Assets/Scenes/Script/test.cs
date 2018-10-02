@@ -12,5 +12,6 @@ public class test : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		Debug.Log("フレームごとにはしゃぎすぎ！");
+        Debug.Log("はしゃぎすぎのmotty君を通りかかったkuro君がフレームごとに止めにかかります");
 	}
 }
